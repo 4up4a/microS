@@ -127,11 +127,16 @@ xfsprogs
 xl2tpd
 zsh
 # custom packages
+#DMM
 sddm
 wayland
 plasma-desktop
+#programs
 dolphin
 konsole
+fastfetch
+flatpak
+firefox-esr
 #drivers
 xf86-input-libinput
 xf86-input-synaptics
